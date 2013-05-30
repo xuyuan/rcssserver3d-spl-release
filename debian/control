@@ -1,0 +1,20 @@
+Source: rcssserver3d-spl
+Section: science
+Priority: extra
+Maintainer: Yuan Xu <yuan.xu@dai-labor.de>
+Build-Depends: debhelper (>= 8.0.0), cmake, spark-spl-dev
+Standards-Version: 3.9.4
+Homepage: http://github.com/xuyuan/SimSpark-SPL
+Vcs-Git: git@github.com:xuyuan/SimSpark-SPL.git
+Vcs-Browser: http://github.com/xuyuan/SimSpark-SPL
+
+Package: rcssserver3d-spl
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, spark-spl
+Description: SimSpark simulator for SPL
+https://github.com/xuyuan/SimSpark-SPL
+
+Package: rcssserver3d-spl-doc
+Architecture: all
+Description: documentation for rcssserver3d-spl
+https://github.com/xuyuan/SimSpark-SPL
