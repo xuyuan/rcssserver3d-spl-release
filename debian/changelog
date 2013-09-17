@@ -1,5 +1,5 @@
-rcssserver3d-spl (2013.05.31~precise-3) precise; urgency=low
+rcssserver3d-spl (2013.09.17~raring-1) raring; urgency=low
 
-  * Initial release
+  * fix auto kickoff and quit
 
- -- Yuan Xu <yuan.xu@dai-labor.de>  Thu, 30 May 2013 19:53:35 +0200
+ -- Yuan Xu <yuan.xu@dai-labor.de>  Tue, 17 Sep 2013 11:12:00 +0200
