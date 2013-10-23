@@ -60,7 +60,12 @@ void SPLState::SetState(TSPLState state)
     return;
   }
   mSPLState = state;
-    
+  
+  if (mSPLState == Initial)
+  {
+    mLeadTime = 0;
+  }
+  
   mLastModeChange = GetStateTime();
 }
 
