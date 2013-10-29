@@ -1,3 +1,9 @@
+rcssserver3d-spl (2013.10.23~saucy-1) saucy; urgency=low
+
+  * Imported Upstream version 2013.10.23
+
+ -- Xu Yuan <yuan.xu@dai-labor.de>  Wed, 23 Oct 2013 12:03:12 +0200
+
 rcssserver3d-spl (2013.09.17~raring-1) raring; urgency=low
 
   * fix auto kickoff and quit
