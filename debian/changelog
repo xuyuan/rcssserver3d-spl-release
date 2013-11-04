@@ -1,3 +1,12 @@
+rcssserver3d-spl (2013.10.29~precise-1) precise; urgency=low
+
+  [ Xu Yuan ]
+  * Imported Upstream version 2013.10.29
+
+  [ Yuan Xu ]
+
+ -- Xu Yuan <yuan.xu@dai-labor.de>  Tue, 29 Oct 2013 14:23:54 +0100
+
 rcssserver3d-spl (2013.10.23~saucy-1) saucy; urgency=low
 
   * Imported Upstream version 2013.10.23
