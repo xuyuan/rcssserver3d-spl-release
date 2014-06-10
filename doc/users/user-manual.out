@@ -1,0 +1,54 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{What is SimSpark?}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{History of the Project}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{About this Manual}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Reader's Guide to the Manual}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{System Overview}{}% 6
+\BOOKMARK [1][-]{section.2.1}{The Server}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{The Monitor and Logplayer}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{The Sample Client}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.4}{Available Simulations}{chapter.2}% 10
+\BOOKMARK [0][-]{chapter.3}{Getting Started}{}% 11
+\BOOKMARK [1][-]{section.3.1}{Download and Installation Instructions}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.2}{An Example of a Simulation Run}{chapter.3}% 13
+\BOOKMARK [0][-]{chapter.4}{Simspark}{}% 14
+\BOOKMARK [1][-]{section.4.1}{General message format}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.2}{Perceptors}{chapter.4}% 16
+\BOOKMARK [2][-]{subsection.4.2.1}{General Perceptors}{section.4.2}% 17
+\BOOKMARK [2][-]{subsection.4.2.2}{Soccer Perceptors}{section.4.2}% 18
+\BOOKMARK [1][-]{section.4.3}{Effectors/Actuators}{chapter.4}% 19
+\BOOKMARK [2][-]{subsection.4.3.1}{General Effectors}{section.4.3}% 20
+\BOOKMARK [2][-]{subsection.4.3.2}{Soccer Effectors}{section.4.3}% 21
+\BOOKMARK [2][-]{subsection.4.3.3}{Older Version Effectors}{section.4.3}% 22
+\BOOKMARK [1][-]{section.4.4}{Simulation Update Loop}{chapter.4}% 23
+\BOOKMARK [2][-]{subsection.4.4.1}{Single-threaded Timer}{section.4.4}% 24
+\BOOKMARK [2][-]{subsection.4.4.2}{Multi-threaded Timer}{section.4.4}% 25
+\BOOKMARK [0][-]{chapter.5}{Rcssmonitor3d}{}% 26
+\BOOKMARK [1][-]{section.5.1}{Internal Monitor}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.2}{External Monitor}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.3}{Playing Log files}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.4}{Key Assignments}{chapter.5}% 30
+\BOOKMARK [0][-]{chapter.6}{Rcssagent3d}{}% 31
+\BOOKMARK [1][-]{section.6.1}{Behaviors}{chapter.6}% 32
+\BOOKMARK [2][-]{subsection.6.1.1}{SoccerbotBehavior}{section.6.1}% 33
+\BOOKMARK [1][-]{section.6.2}{How to change Behaviors?}{chapter.6}% 34
+\BOOKMARK [0][-]{chapter.7}{Simulations}{}% 35
+\BOOKMARK [1][-]{section.7.1}{The Soccer Simulation}{chapter.7}% 36
+\BOOKMARK [2][-]{subsection.7.1.1}{Environment and Objects on the Field}{section.7.1}% 37
+\BOOKMARK [2][-]{subsection.7.1.2}{Rules Judged by the Automatic Referee}{section.7.1}% 38
+\BOOKMARK [2][-]{subsection.7.1.3}{Rules Judged by the Human Referee}{section.7.1}% 39
+\BOOKMARK [0][-]{chapter.8}{The Robot Models}{}% 40
+\BOOKMARK [1][-]{section.8.1}{Soccerbot}{chapter.8}% 41
+\BOOKMARK [2][-]{subsection.8.1.1}{Equipment \046 Parameter}{section.8.1}% 42
+\BOOKMARK [1][-]{section.8.2}{Nao}{chapter.8}% 43
+\BOOKMARK [2][-]{subsection.8.2.1}{Equipment}{section.8.2}% 44
+\BOOKMARK [2][-]{subsection.8.2.2}{Parameters}{section.8.2}% 45
+\BOOKMARK [2][-]{subsection.8.2.3}{Implementation}{section.8.2}% 46
+\BOOKMARK [0][-]{chapter.9}{Further Resources}{}% 47
+\BOOKMARK [1][-]{section.9.1}{Project Homepage}{chapter.9}% 48
+\BOOKMARK [1][-]{section.9.2}{Mailing Lists}{chapter.9}% 49
+\BOOKMARK [1][-]{section.9.3}{IRC channel}{chapter.9}% 50
+\BOOKMARK [1][-]{section.9.4}{Wiki}{chapter.9}% 51
+\BOOKMARK [1][-]{section.9.5}{Thesis and Papers}{chapter.9}% 52
+\BOOKMARK [1][-]{section.9.6}{How to contribute?}{chapter.9}% 53
+\BOOKMARK [0][-]{appendix.A}{License}{}% 54
