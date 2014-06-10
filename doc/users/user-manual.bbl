@@ -1,0 +1,84 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{MBdSG{\etalchar{+}}07}
+
+\bibitem[BMO{\etalchar{+}}05]{BMO+05}
+Joschka Boedecker, Norbert~Michael Mayer, Masaki Ogino, Rodrigo
+  da~Silva~Guerra, Masaki Kikuchi, and Minoru Asada, \emph{{G}etting closer:
+  {H}ow {S}imulation and {H}umanoid {L}eague can benefit from each other},
+  Proceedings of the 3rd International Symposium on Autonomous Minirobots for
+  Research and Edutainment (Kazuyuki Murase, Kosuke Sekiyama, Naoyuki Kubota,
+  Tomohide Naniwa, and Joaquin Sitte, eds.), Springer, 2005.
+
+\bibitem[B{\"o}d06]{Boedecker06}
+Joschka B{\"o}decker, \emph{Humanoid robot simulation and walking controller
+  development in the spark simulator framework}, Master's thesis,
+  Universit{\"a}t Koblenz-Landau, 2006.
+
+\bibitem[KA00]{KA00}
+H.~Kitano and M.~Asada, \emph{The {R}obocup humanoid challenge as the
+  millennium challenge for advanced robotics}, Advanced Robotics \textbf{13}
+  (2000), no.~8, 723--736.
+
+\bibitem[KAK{\etalchar{+}}97]{KAK+97}
+H.~Kitano, M.~Asada, Y.~Kuniyoshi, I.~Noda, E.~Osawa, and H.~Matsubara,
+  \emph{Robo{C}up: {A} {C}hallenge {AI} {P}roblem}, AI Magazine \textbf{18}
+  (1997), no.~1, 73--85.
+
+\bibitem[KO04]{KO04}
+Marco K{\"o}gler and Oliver Obst, \emph{Simulation league: The next
+  generation}, {RoboCup 2003: Robot Soccer World Cup~VII} (Daniel Polani,
+  Andrea Bonarini, Brett Browning, and Kazuo Yoshida, eds.), {Lecture Notes in
+  Artificial Intelligence}, vol. 3020, Springer, Berlin, Heidelberg, New York,
+  2004, pp.~458 -- 469.
+
+\bibitem[K{\"o}g03]{Koegler03}
+Marco K{\"o}gler, \emph{Simulation and visualization of agents in 3d
+  environments}, Master's thesis, Universit{\"a}t Koblenz-Landau, 2003.
+
+\bibitem[Lea07]{Lekavy}
+M.~{Lekavý}~et al, \emph{Robocup – tretí rozmer}, Project report, Slovenská
+  technická univerzita v Bratislave, Bratislava, 2007, (in Slovak).
+
+\bibitem[MBdSG{\etalchar{+}}07]{MBS+07}
+Norbert~Michael Mayer, Joschka Boedecker, Rodrigo da~Silva~Guerra, Oliver Obst,
+  and Minoru Asada, \emph{3{D}2{R}eal: {S}imulation {L}eague {F}inals in {R}eal
+  {R}obots}, RoboCup 2006: Robot Soccer World Cup~X (Gerhard Lakemeyer,
+  Elizabeth Sklar, Domenico~G. Sorrenti, and Tomoichi Takahashi, eds.), Lecture
+  Notes in Artificial Intelligence, Springer, 2007.
+
+\bibitem[Obs07]{Obst07}
+Oliver Obst, \emph{Controlling physical multiagent teams: Getting
+  league-independent results from robocup soccer}, DISKI -- Dissertations in
+  Artificial Intelligence, no. 304, Aka / IOS Press, 2007, ISBN
+  978-1-58603-705-5.
+
+\bibitem[OR05]{OR05}
+Oliver Obst and Markus Rollmann, \emph{{SPARK} -- {A} {G}eneric {S}imulator for
+  {P}hysical {M}ultiagent {S}imulations}, Computer Systems Science and
+  Engineering \textbf{20} (2005), no.~5, 347--356.
+
+\bibitem[Rol04]{Rollmann04}
+Markus Rollmann, \emph{Spark -- generic building blocks for physical
+  multi-agent simulations}, Master's thesis, Universit{\"a}t Koblenz-Landau,
+  2004.
+
+\bibitem[Sch08]{SchillingJ}
+J.~Schilling, \emph{{E}rstellen eines {B}asis-{A}genten zur {K}ommunikation mit
+  dem {RoboCup3D} {S}occer {S}erver}, Bachelor's thesis, Hochschule Offenburg,
+  Offenburg, 2008, (in German).
+
+\bibitem[Smi06]{ODEManual}
+Russell Smith, \emph{Open dynamics engine v0.5 user guide}, 2006.
+
+\bibitem[Vor06]{Vorst06}
+Philipp Vorst, \emph{Readylog agents for the robocup 3d soccer simulation
+  league}, Master's thesis, RWTH Aachen, 2006.
+
+\end{thebibliography}
