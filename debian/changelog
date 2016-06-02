@@ -1,3 +1,12 @@
+rcssserver3d-spl (2016.06.02-1) UNRELEASED; urgency=medium
+
+  [ Xu Yuan ]
+  * Imported Upstream version 2016.06.02
+
+  [ xu ]
+
+ -- Xu Yuan <yuan.xu@dai-labor.de>  Fri, 03 Jun 2016 00:39:52 +0200
+
 rcssserver3d-spl (2014.06.10~wily-1) wily; urgency=medium
 
   [ Xu Yuan ]
