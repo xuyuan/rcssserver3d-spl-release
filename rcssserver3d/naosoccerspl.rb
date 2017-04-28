@@ -72,8 +72,8 @@ addSoccerVar('MinRobotTypesCount', 3)
 addSoccerVar('MaxSumTwoRobotTypes', 9)
 
 # ball parameters
-addSoccerVar('BallRadius', 0.0325)
-addSoccerVar('BallMass',0.055)
+addSoccerVar('BallRadius', 0.05)
+addSoccerVar('BallMass',0.05)
 
 # SPL rule parameters
 addSoccerVar('RuleGoalPauseTime', 3.0)
