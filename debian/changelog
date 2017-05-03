@@ -1,4 +1,4 @@
-rcssserver3d-spl (2017.04.28.1~yakkety-1) yakkety; urgency=medium
+rcssserver3d-spl (2017.05.03.2~yakkety-2) yakkety; urgency=medium
 
   [ Xu Yuan ]
   * Imported Upstream version 2016.06.02
@@ -10,6 +10,7 @@ rcssserver3d-spl (2017.04.28.1~yakkety-1) yakkety; urgency=medium
   * Imported Upstream version 2016.06.03
   * Imported Upstream version 2017.04.28.1
   * merge upstream
+  * Imported Upstream version 2017.05.03.2
 
   [ xu ]
 
