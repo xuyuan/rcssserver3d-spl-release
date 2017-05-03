@@ -1,7 +1,17 @@
-rcssserver3d-spl (2016.06.02-1) UNRELEASED; urgency=medium
+rcssserver3d-spl (2017.05.03.3~zesty-1) zesty; urgency=medium
 
   [ Xu Yuan ]
   * Imported Upstream version 2016.06.02
+
+  [ xu ]
+
+  [ Xu Yuan ]
+  * remove
+  * Imported Upstream version 2016.06.03
+  * Imported Upstream version 2017.04.28.1
+  * merge upstream
+  * Imported Upstream version 2017.05.03.2
+  * Imported Upstream version 2017.05.03.3
 
   [ xu ]
 
